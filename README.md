@@ -11,5 +11,7 @@ To run the project, run the following commands in terminal:
 
 
 npm install
+
+
 npm start
 
